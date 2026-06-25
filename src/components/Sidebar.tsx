@@ -85,7 +85,7 @@ export default function Sidebar({ location, onClose }: SidebarProps) {
         {/* Descrição */}
         <div>
           <h3 className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-2">
-            Resumo gerado por IA
+            ⚠ Resumo gerado por IA
           </h3>
           <p className="text-sm text-gray-700 leading-relaxed">
             {location.description}

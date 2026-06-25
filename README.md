@@ -1,8 +1,7 @@
 # Plataforma Águas-Vivas
 
 **Plataforma de monitoramento hídrico de Santa Catarina**
-Alinhada à ODS 6 da ONU — Água Potável e Saneamento
-
+Alinhada à ODS 14 da ONU — Vida na Água
 ---
 
 ## Stack

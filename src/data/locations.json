@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Lagoa da Conceição",
-    "city": "Florianópolis",
+    "city": "• Florianópolis",
     "region": "Grande Florianópolis",
     "lat": -27.6041,
     "lng": -48.4583,
@@ -19,7 +19,7 @@
   {
     "id": 2,
     "name": "Praia dos Ingleses",
-    "city": "Florianópolis",
+    "city": "• Florianópolis",
     "region": "Grande Florianópolis",
     "lat": -27.43273,
     "lng": -48.39272,
@@ -31,7 +31,7 @@
   {
     "id": 3,
     "name": "Praia do Campeche",
-    "city": "Florianópolis",
+    "city": "• Florianópolis",
     "region": "Grande Florianópolis",
     "lat": -27.66088,
     "lng": -48.47237,
@@ -43,7 +43,7 @@
   {
     "id": 4,
     "name": "Praia Brava",
-    "city": "Itajaí",
+    "city": "• Itajaí",
     "region": "Litoral Norte",
     "lat": -26.8761,
     "lng": -48.6253,
@@ -60,7 +60,7 @@
   {
     "id": 5,
     "name": "Praia Mole",
-    "city": "Florianópolis",
+    "city": "• Florianópolis",
     "region": "Grande Florianópolis",
     "lat": -27.6073,
     "lng": -48.4358,
@@ -72,7 +72,7 @@
   {
     "id": 6,
     "name": "Barra da Lagoa",
-    "city": "Florianópolis",
+    "city": "• Florianópolis",
     "region": "Grande Florianópolis",
     "lat": -27.56976,
     "lng": -48.42653,
@@ -89,7 +89,7 @@
   {
     "id": 7,
     "name": "Praia da Joaquina",
-    "city": "Florianópolis",
+    "city": "• Florianópolis",
     "region": "Grande Florianópolis",
     "lat": -27.62788,
     "lng": -48.44902,
@@ -101,7 +101,7 @@
   {
     "id": 8,
     "name": "Praia Central de Bombinhas",
-    "city": "Bombinhas",
+    "city": "• Bombinhas",
     "region": "Litoral Norte",
     "lat": -27.1436,
     "lng": -48.4785,
@@ -118,7 +118,7 @@
   {
     "id": 9,
     "name": "Praia Central de Balneário Camboriú",
-    "city": "Balneário Camboriú",
+    "city": "• Balneário Camboriú",
     "region": "Litoral Norte",
     "lat": -26.9932,
     "lng": -48.6345,
@@ -135,7 +135,7 @@
   {
     "id": 10,
     "name": "Porto de Itajaí",
-    "city": "Itajaí",
+    "city": "• Itajaí",
     "region": "Litoral Norte",
     "lat": -26.9078,
     "lng": -48.6710,
@@ -152,7 +152,7 @@
   {
     "id": 11,
     "name": "Praia de Canasvieiras",
-    "city": "Florianópolis",
+    "city": "• Florianópolis",
     "region": "Grande Florianópolis",
     "lat": -27.4279,
     "lng": -48.4668,
@@ -164,7 +164,7 @@
   {
     "id": 12,
     "name": "Lagoa do Peri",
-    "city": "Florianópolis",
+    "city": "• Florianópolis",
     "region": "Grande Florianópolis",
     "lat": -27.72867,
     "lng": -48.52730,
@@ -181,7 +181,7 @@
   {
     "id": 13,
     "name": "Praia de Garopaba",
-    "city": "Garopaba",
+    "city": "• Garopaba",
     "region": "Sul Catarinense",
     "lat": -28.0274,
     "lng": -48.6180,
@@ -193,7 +193,7 @@
   {
     "id": 14,
     "name": "Praia de Imbituba",
-    "city": "Imbituba",
+    "city": "• Imbituba",
     "region": "Sul Catarinense",
     "lat": -28.2415,
     "lng": -48.6694,
@@ -209,8 +209,8 @@
   },
   {
     "id": 15,
-    "name": "Laguna — Lagoa de Santo Antônio",
-    "city": "Laguna",
+    "name": "Lagoa de Santo Antônio",
+    "city": "• Laguna",
     "region": "Sul Catarinense",
     "lat": -28.4836,
     "lng": -48.7826,
@@ -227,7 +227,7 @@
   {
     "id": 16,
     "name": "Praia de Sambaqui",
-    "city": "Florianópolis",
+    "city": "• Florianópolis",
     "region": "Grande Florianópolis",
     "lat": -27.48909,
     "lng": -48.53056,
@@ -239,7 +239,7 @@
   {
     "id": 17,
     "name": "Praia de Itapema",
-    "city": "Itapema",
+    "city": "• Itapema",
     "region": "Litoral Norte",
     "lat": -27.0907,
     "lng": -48.6118,
@@ -251,7 +251,7 @@
   {
     "id": 18,
     "name": "Praia de Porto Belo",
-    "city": "Porto Belo",
+    "city": "• Porto Belo",
     "region": "Litoral Norte",
     "lat": -27.1577,
     "lng": -48.5462,
@@ -263,7 +263,7 @@
   {
     "id": 19,
     "name": "Praia da Armação",
-    "city": "Florianópolis",
+    "city": "• Florianópolis",
     "region": "Grande Florianópolis",
     "lat": -27.73505,
     "lng": -48.50739,
@@ -275,7 +275,7 @@
   {
     "id": 20,
     "name": "Rio Tijucas",
-    "city": "Tijucas",
+    "city": "• Tijucas",
     "region": "Litoral Norte",
     "lat": -27.2395,
     "lng": -48.6358,
@@ -292,7 +292,7 @@
   {
     "id": 21,
     "name": "Praia de Navegantes",
-    "city": "Navegantes",
+    "city": "• Navegantes",
     "region": "Litoral Norte",
     "lat": -26.8990,
     "lng": -48.6538,
@@ -309,7 +309,7 @@
   {
     "id": 22,
     "name": "Praia de Penha",
-    "city": "Penha",
+    "city": "• Penha",
     "region": "Litoral Norte",
     "lat": -26.7731,
     "lng": -48.6446,
@@ -321,7 +321,7 @@
   {
     "id": 23,
     "name": "Praia de Piçarras",
-    "city": "Balneário Piçarras",
+    "city": "• Balneário Piçarras",
     "region": "Litoral Norte",
     "lat": -26.7603,
     "lng": -48.6681,
@@ -333,7 +333,7 @@
   {
     "id": 24,
     "name": "Praia de São Francisco do Sul",
-    "city": "São Francisco do Sul",
+    "city": "• São Francisco do Sul",
     "region": "Litoral Norte",
     "lat": -26.2434,
     "lng": -48.6337,
@@ -350,7 +350,7 @@
   {
     "id": 25,
     "name": "Lagoa de Saguaçu",
-    "city": "Joinville",
+    "city": "• Joinville",
     "region": "Litoral Norte",
     "lat": -26.2854,
     "lng": -48.7889,
@@ -367,7 +367,7 @@
   {
     "id": 26,
     "name": "Praia do Sonho",
-    "city": "Palhoça",
+    "city": "• Palhoça",
     "region": "Grande Florianópolis",
     "lat": -27.83414,
     "lng": -48.58738,
@@ -384,7 +384,7 @@
   {
     "id": 27,
     "name": "Rio Araranguá",
-    "city": "Araranguá",
+    "city": "• Araranguá",
     "region": "Sul Catarinense",
     "lat": -28.9342,
     "lng": -49.4801,
@@ -401,7 +401,7 @@
   {
     "id": 28,
     "name": "Praia de Içara",
-    "city": "Içara",
+    "city": "• Içara",
     "region": "Sul Catarinense",
     "lat": -28.8002,
     "lng": -49.2119,
@@ -413,7 +413,7 @@
   {
     "id": 29,
     "name": "Balneário Rincão",
-    "city": "Criciúma",
+    "city": "• Criciúma",
     "region": "Sul Catarinense",
     "lat": -28.8242,
     "lng": -49.2393,
@@ -424,8 +424,8 @@
   },
   {
     "id": 30,
-    "name": "Rio Itajaí-Açu — Blumenau",
-    "city": "Blumenau",
+    "name": "Rio Itajaí-Açu",
+    "city": "• Blumenau",
     "region": "Vale do Itajaí",
     "lat": -26.9194,
     "lng": -49.0661,
@@ -442,7 +442,7 @@
   {
     "id": 31,
     "name": "Praia de Pinheira",
-    "city": "Palhoça",
+    "city": "• Palhoça",
     "region": "Grande Florianópolis",
     "lat": -27.8625,
     "lng": -48.6080,
@@ -454,7 +454,7 @@
   {
     "id": 32,
     "name": "Praia de Governador Celso Ramos",
-    "city": "Governador Celso Ramos",
+    "city": "• Governador Celso Ramos",
     "region": "Grande Florianópolis",
     "lat": -27.3164,
     "lng": -48.5590,
@@ -466,7 +466,7 @@
   {
     "id": 33,
     "name": "Lagoa de Ibiraquera",
-    "city": "Imbituba",
+    "city": "• Imbituba",
     "region": "Sul Catarinense",
     "lat": -28.1668,
     "lng": -48.6384,
@@ -483,7 +483,7 @@
   {
     "id": 34,
     "name": "Praia de Jurerê Internacional",
-    "city": "Florianópolis",
+    "city": "• Florianópolis",
     "region": "Grande Florianópolis",
     "lat": -27.43425,
     "lng": -48.50567,
@@ -495,7 +495,7 @@
   {
     "id": 35,
     "name": "Praia do Santinho",
-    "city": "Florianópolis",
+    "city": "• Florianópolis",
     "region": "Grande Florianópolis",
     "lat": -27.45482,
     "lng": -48.37452,
