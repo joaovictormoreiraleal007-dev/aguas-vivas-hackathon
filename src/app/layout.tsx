@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Plataforma Águas-Vivas",
+  title: "Projeto Iara",
   description:
     "Plataforma interativa de monitoramento da qualidade da água em praias, lagoas e rios de Santa Catarina. Alinhada à ODS 6 da ONU.",
   keywords: ["água", "saneamento", "Santa Catarina", "qualidade da água", "ODS 6", "meio ambiente"],
