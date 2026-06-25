@@ -63,8 +63,10 @@ interface MapProps {
 export default function Map({ locations, selectedLocation, onSelect }: MapProps) {
   return (
     <MapContainer
-      center={[-27.5, -48.8]}  // centro aproximado de SC
+      center={[-27.5, -48.8]}
       zoom={8}
+      minZoom={7}
+      maxZoom={17}
       style={{ height: "100%", width: "100%" }}
       zoomControl={true}
     >
