@@ -12,7 +12,7 @@ const Map = dynamic(() => import("./Map"), {
   loading: () => (
     <div className="w-full h-full flex items-center justify-center bg-gray-100">
       <div className="flex flex-col items-center gap-3 text-gray-400">
-        <span className="text-4xl animate-bounce">💧</span>
+        <span className="text-4xl animate-bounce">🪼</span>
         <p className="text-sm">Carregando mapa...</p>
       </div>
     </div>
