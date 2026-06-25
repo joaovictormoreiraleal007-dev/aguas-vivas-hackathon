@@ -1,0 +1,507 @@
+[
+  {
+    "id": 1,
+    "name": "Lagoa da Conceição",
+    "city": "Florianópolis",
+    "region": "Grande Florianópolis",
+    "lat": -27.6041,
+    "lng": -48.4583,
+    "waterStatus": "warning",
+    "beachStatus": "not_applicable",
+    "description": "Lagoa de água salobra no coração da Ilha, cercada por dunas e vegetação de restinga. Sofre pressão do crescimento urbano no entorno, com lançamento esporádico de efluentes domésticos que exigem monitoramento frequente.",
+    "ngo": {
+      "name": "SOS Lagoa",
+      "description": "ONG dedicada ao monitoramento e preservação da Lagoa da Conceição, realizando coletas de amostras mensais e campanhas de educação ambiental nas escolas do entorno.",
+      "contact": "soslagoa@aguasc.org.br | (48) 99123-4567",
+      "donationUrl": "https://doe.aguasc.org.br/soslagoa"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Praia dos Ingleses",
+    "city": "Florianópolis",
+    "region": "Grande Florianópolis",
+    "lat": -27.4382,
+    "lng": -48.3960,
+    "waterStatus": "good",
+    "beachStatus": "proper",
+    "description": "Uma das maiores praias da Ilha de Santa Catarina, com águas claras e areia branca. Monitoramento regular da FATMA aponta qualidade adequada para banho na maior parte do ano.",
+    "ngo": null
+  },
+  {
+    "id": 3,
+    "name": "Praia do Campeche",
+    "city": "Florianópolis",
+    "region": "Grande Florianópolis",
+    "lat": -27.7213,
+    "lng": -48.4780,
+    "waterStatus": "good",
+    "beachStatus": "proper",
+    "description": "Praia de mar aberto com forte energia de ondas, muito procurada por surfistas. Localizada no sul da ilha, apresenta boas condições de balneabilidade pela ausência de ocupação urbana densa nas proximidades.",
+    "ngo": null
+  },
+  {
+    "id": 4,
+    "name": "Praia Brava",
+    "city": "Itajaí",
+    "region": "Litoral Norte",
+    "lat": -26.8761,
+    "lng": -48.6253,
+    "waterStatus": "warning",
+    "beachStatus": "proper",
+    "description": "Praia badalada no litoral norte, com ondas fortes e perfil jovem. A proximidade com a foz do Rio Itajaí-Açu exige atenção após eventos de chuva intensa, que podem elevar a turbidez e introduzir contaminantes.",
+    "ngo": {
+      "name": "Mar Limpo Itajaí",
+      "description": "Grupo de voluntários que realiza mutirões de limpeza mensal na Praia Brava e monitora a qualidade da água após as cheias do Rio Itajaí.",
+      "contact": "marlimpo@aguasc.org.br | (47) 99234-5678",
+      "donationUrl": "https://doe.aguasc.org.br/marlimpo"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Praia Mole",
+    "city": "Florianópolis",
+    "region": "Grande Florianópolis",
+    "lat": -27.6073,
+    "lng": -48.4358,
+    "waterStatus": "good",
+    "beachStatus": "proper",
+    "description": "Praia rústica entre dunas, muito frequentada e com paisagem preservada. A baixa ocupação lindeira contribui para a manutenção da qualidade da água ao longo do ano.",
+    "ngo": null
+  },
+  {
+    "id": 6,
+    "name": "Barra da Lagoa",
+    "city": "Florianópolis",
+    "region": "Grande Florianópolis",
+    "lat": -27.5715,
+    "lng": -48.4192,
+    "waterStatus": "warning",
+    "beachStatus": "proper",
+    "description": "Canal que conecta a Lagoa da Conceição ao mar. Ponto de intenso tráfego de barcos de pesca e turismo. A circulação restrita da água no canal exige monitoramento constante, especialmente no verão.",
+    "ngo": {
+      "name": "Guardiões da Barra",
+      "description": "Associação de pescadores artesanais que monitora a qualidade da água do canal e da lagoa, defendendo a pesca sustentável e o saneamento básico na comunidade.",
+      "contact": "guardioes@aguasc.org.br | (48) 99345-6789",
+      "donationUrl": "https://doe.aguasc.org.br/guardioes"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Praia da Joaquina",
+    "city": "Florianópolis",
+    "region": "Grande Florianópolis",
+    "lat": -27.6441,
+    "lng": -48.4434,
+    "waterStatus": "good",
+    "beachStatus": "proper",
+    "description": "Praia famosa pelas dunas de areia e pelas competições internacionais de surfe. Localizada entre a Lagoa da Conceição e o mar aberto, apresenta água de boa qualidade e ondas regulares.",
+    "ngo": null
+  },
+  {
+    "id": 8,
+    "name": "Praia Central de Bombinhas",
+    "city": "Bombinhas",
+    "region": "Litoral Norte",
+    "lat": -27.1436,
+    "lng": -48.4785,
+    "waterStatus": "good",
+    "beachStatus": "proper",
+    "description": "Localizada em uma das cidades com maior biodiversidade marinha do sul do Brasil, a praia central de Bombinhas possui águas cristalinas protegidas por regulação municipal rígida. Ponto de mergulho e snorkel muito procurado.",
+    "ngo": {
+      "name": "APABOM",
+      "description": "Associação para Proteção Ambiental de Bombinhas. Promove o ecoturismo responsável, monitora a qualidade da água nas praias e apoia pesquisas sobre a fauna marinha local.",
+      "contact": "apabom@aguasc.org.br | (47) 99456-7890",
+      "donationUrl": "https://doe.aguasc.org.br/apabom"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Praia Central de Balneário Camboriú",
+    "city": "Balneário Camboriú",
+    "region": "Litoral Norte",
+    "lat": -26.9932,
+    "lng": -48.6345,
+    "waterStatus": "bad",
+    "beachStatus": "improper",
+    "description": "Praia urbana de alta densidade turística. O Rio Camboriú corta a orla e, em dias de chuva intensa, despeja carga orgânica significativa no mar. A FATMA registra recorrentes episódios de imprópria para banho especialmente entre novembro e março.",
+    "ngo": {
+      "name": "Projeto Balneário Limpo",
+      "description": "Iniciativa cidadã que pressiona pelo tratamento integral do esgoto no município, realiza campanhas de conscientização para turistas e monitora a qualidade da água diariamente na temporada.",
+      "contact": "bcamboriolimpo@aguasc.org.br | (47) 99567-8901",
+      "donationUrl": "https://doe.aguasc.org.br/bcamboriolimpo"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Porto de Itajaí",
+    "city": "Itajaí",
+    "region": "Litoral Norte",
+    "lat": -26.9078,
+    "lng": -48.6710,
+    "waterStatus": "bad",
+    "beachStatus": "not_applicable",
+    "description": "Área portuária às margens do Rio Itajaí-Açu. A movimentação de cargas, os efluentes industriais e a dragagem periódica do leito afetam significativamente a qualidade das águas do estuário. Zona de exclusão para banho.",
+    "ngo": {
+      "name": "Rio Vivo Itajaí",
+      "description": "ONG que monitora a qualidade da água do Rio Itajaí-Açu desde a nascente até a foz, produzindo relatórios públicos mensais e pressionando por políticas de saneamento industrial.",
+      "contact": "riovivo@aguasc.org.br | (47) 99678-9012",
+      "donationUrl": "https://doe.aguasc.org.br/riovivo"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Praia de Canasvieiras",
+    "city": "Florianópolis",
+    "region": "Grande Florianópolis",
+    "lat": -27.4279,
+    "lng": -48.4668,
+    "waterStatus": "warning",
+    "beachStatus": "proper",
+    "description": "Praia tranquila no norte da ilha, muito procurada por famílias. Em temporada de alta, a sobrecarga do sistema de esgoto local pode comprometer momentaneamente a qualidade da água próximo à orla.",
+    "ngo": null
+  },
+  {
+    "id": 12,
+    "name": "Lagoa do Peri",
+    "city": "Florianópolis",
+    "region": "Grande Florianópolis",
+    "lat": -27.7674,
+    "lng": -48.5129,
+    "waterStatus": "good",
+    "beachStatus": "not_applicable",
+    "description": "Maior lagoa de água doce da Ilha de Santa Catarina, dentro de Unidade de Conservação estadual. Fornece água potável para parte do sul da ilha. Qualidade considerada excelente, com proteção ambiental rigorosa no entorno.",
+    "ngo": {
+      "name": "Amigos do Peri",
+      "description": "Coletivo que patrulha a Lagoa do Peri e a APA do Peri, combatendo ocupações irregulares e a contaminação das nascentes que abastecem o manancial.",
+      "contact": "amigosperi@aguasc.org.br | (48) 99789-0123",
+      "donationUrl": "https://doe.aguasc.org.br/amigosperi"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Praia de Garopaba",
+    "city": "Garopaba",
+    "region": "Sul Catarinense",
+    "lat": -28.0274,
+    "lng": -48.6180,
+    "waterStatus": "good",
+    "beachStatus": "proper",
+    "description": "Vila de pescadores com tradição surfista. Águas limpas e bom estado de conservação ambiental. A baixa industrialização da região contribui para a manutenção da qualidade hídrica.",
+    "ngo": null
+  },
+  {
+    "id": 14,
+    "name": "Praia de Imbituba",
+    "city": "Imbituba",
+    "region": "Sul Catarinense",
+    "lat": -28.2327,
+    "lng": -48.6640,
+    "waterStatus": "warning",
+    "beachStatus": "proper",
+    "description": "Imbituba abriga o Datum Vertical Brasileiro (referência altimétrica do país). A praia central sofre influência do porto carbonífero histórico, com sedimentos contaminados que exigem atenção em dias de mar agitado.",
+    "ngo": {
+      "name": "Porto Limpo SC",
+      "description": "ONG que monitora o legado ambiental da mineração de carvão no litoral sul de SC, advocando pela remediação de áreas contaminadas e pela transparência nas medições de qualidade da água.",
+      "contact": "portolimpo@aguasc.org.br | (48) 99890-1234",
+      "donationUrl": "https://doe.aguasc.org.br/portolimpo"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Laguna — Lagoa de Santo Antônio",
+    "city": "Laguna",
+    "region": "Sul Catarinense",
+    "lat": -28.4836,
+    "lng": -48.7826,
+    "waterStatus": "warning",
+    "beachStatus": "not_applicable",
+    "description": "Grande laguna litorânea com ligação ao mar. Conhecida pela pesca cooperativa com botos. Sofre pressão de efluentes domésticos de cidades do entorno, tornando o monitoramento permanente essencial.",
+    "ngo": {
+      "name": "Projeto Boto Guia",
+      "description": "Iniciativa que une preservação dos botos-da-laguna à melhoria da qualidade da água, unindo pescadores, cientistas e turistas em uma cadeia de monitoramento participativo.",
+      "contact": "botaguia@aguasc.org.br | (48) 99901-2345",
+      "donationUrl": "https://doe.aguasc.org.br/botaguia"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Praia de Sambaqui",
+    "city": "Florianópolis",
+    "region": "Grande Florianópolis",
+    "lat": -27.4893,
+    "lng": -48.5358,
+    "waterStatus": "good",
+    "beachStatus": "proper",
+    "description": "Pequena enseada no norte da ilha, famosa pela maricultura. A ostreicultura local depende da qualidade da água, e os próprios produtores realizam monitoramentos frequentes, garantindo transparência sobre as condições do mar.",
+    "ngo": null
+  },
+  {
+    "id": 17,
+    "name": "Praia de Itapema",
+    "city": "Itapema",
+    "region": "Litoral Norte",
+    "lat": -27.0907,
+    "lng": -48.6118,
+    "waterStatus": "good",
+    "beachStatus": "proper",
+    "description": "Praia de águas calmas e transparentes, muito procurada por famílias. Itapema é uma das cidades com maior valorização imobiliária do litoral, e investe em infraestrutura de saneamento para manter a qualidade do balneário.",
+    "ngo": null
+  },
+  {
+    "id": 18,
+    "name": "Praia de Porto Belo",
+    "city": "Porto Belo",
+    "region": "Litoral Norte",
+    "lat": -27.1577,
+    "lng": -48.5462,
+    "waterStatus": "good",
+    "beachStatus": "proper",
+    "description": "Porto Belo é conhecida pelas excursões de barco à Ilha de Porto Belo. As praias locais mantêm bom estado de conservação, com monitoramento regular da prefeitura e baixo índice de contaminação.",
+    "ngo": null
+  },
+  {
+    "id": 19,
+    "name": "Praia da Armação",
+    "city": "Florianópolis",
+    "region": "Grande Florianópolis",
+    "lat": -27.7461,
+    "lng": -48.5023,
+    "waterStatus": "good",
+    "beachStatus": "proper",
+    "description": "Praia longa no sul da ilha, com acesso à Lagoa do Peri e à Lagoa da Armação. Ambiente semi-preservado com boas condições de balneabilidade, especialmente por conta da UC do Peri nas proximidades.",
+    "ngo": null
+  },
+  {
+    "id": 20,
+    "name": "Rio Tijucas",
+    "city": "Tijucas",
+    "region": "Litoral Norte",
+    "lat": -27.2395,
+    "lng": -48.6358,
+    "waterStatus": "bad",
+    "beachStatus": "not_applicable",
+    "description": "Rio que nasce na Serra Geral e deságua no litoral norte. Sofre com o lançamento de efluentes domésticos e agropecuários ao longo de sua bacia. A qualidade da água é crítica na foz, próximo à área urbana de Tijucas.",
+    "ngo": {
+      "name": "Viva o Tijucas",
+      "description": "Coletivo de moradores que documenta e denuncia descartes ilegais no Rio Tijucas, promovendo ações de revegetação ciliar e educação ambiental nas escolas municipais.",
+      "contact": "vivotijucas@aguasc.org.br | (48) 99012-3456",
+      "donationUrl": "https://doe.aguasc.org.br/vivotijucas"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Praia de Navegantes",
+    "city": "Navegantes",
+    "region": "Litoral Norte",
+    "lat": -26.8990,
+    "lng": -48.6538,
+    "waterStatus": "bad",
+    "beachStatus": "improper",
+    "description": "Praia urbana localizada na margem norte da foz do Rio Itajaí-Açu. A forte influência do estuário e das atividades portuárias de Itajaí compromete sistematicamente a balneabilidade, com períodos frequentes de interdição.",
+    "ngo": {
+      "name": "Navegar Limpo",
+      "description": "ONG que atua junto à comunidade pesqueira de Navegantes, monitorando a qualidade da água do estuário e pressionando por investimentos em saneamento básico no município.",
+      "contact": "navegarlimpo@aguasc.org.br | (47) 99123-5678",
+      "donationUrl": "https://doe.aguasc.org.br/navegarlimpo"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Praia de Penha",
+    "city": "Penha",
+    "region": "Litoral Norte",
+    "lat": -26.7731,
+    "lng": -48.6446,
+    "waterStatus": "good",
+    "beachStatus": "proper",
+    "description": "Cidade litorânea famosa pelo parque Beto Carrero. A praia de Penha mantém boas condições de balneabilidade ao longo do ano, beneficiada por uma base de saneamento mais estruturada em relação a municípios vizinhos.",
+    "ngo": null
+  },
+  {
+    "id": 23,
+    "name": "Praia de Piçarras",
+    "city": "Balneário Piçarras",
+    "region": "Litoral Norte",
+    "lat": -26.7603,
+    "lng": -48.6681,
+    "waterStatus": "warning",
+    "beachStatus": "proper",
+    "description": "Praia calma frequentada por famílias, com baixa agitação do mar. Eventualmente afetada por variações na qualidade da água em períodos de alta temporada, quando a pressão sobre o sistema de saneamento aumenta.",
+    "ngo": null
+  },
+  {
+    "id": 24,
+    "name": "Praia de São Francisco do Sul",
+    "city": "São Francisco do Sul",
+    "region": "Litoral Norte",
+    "lat": -26.2434,
+    "lng": -48.6337,
+    "waterStatus": "warning",
+    "beachStatus": "proper",
+    "description": "Cidade histórica com uma das mais antigas ocupações europeias do Brasil. O porto industrial da cidade impacta algumas praias do entorno. O centro histórico é tombado e o turismo crescente exige atenção ao saneamento.",
+    "ngo": {
+      "name": "Guardiões de São Chico",
+      "description": "Grupo de preservação que une moradores históricos e ambientalistas para monitorar as praias e baías de São Francisco do Sul, combatendo a poluição portuária.",
+      "contact": "guardioessaochico@aguasc.org.br | (47) 99234-6789",
+      "donationUrl": "https://doe.aguasc.org.br/guardioessaochico"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Praia do Forte — Joinville",
+    "city": "Joinville",
+    "region": "Litoral Norte",
+    "lat": -26.3056,
+    "lng": -48.8328,
+    "waterStatus": "bad",
+    "beachStatus": "improper",
+    "description": "Praia estuarina próxima à área industrial de Joinville, maior cidade de SC. O complexo industrial da baía da Babitonga despeja efluentes que comprometem seriamente a qualidade da água. Banho formalmente desaconselhado.",
+    "ngo": {
+      "name": "Babitonga Viva",
+      "description": "ONG que luta pela recuperação da Baía da Babitonga, ecossistema de manguezal ameaçado pela industrialização de Joinville. Realiza monitoramento, advocacia e educação ambiental.",
+      "contact": "babitonga@aguasc.org.br | (47) 99345-7890",
+      "donationUrl": "https://doe.aguasc.org.br/babitonga"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Praia de Palhoça",
+    "city": "Palhoça",
+    "region": "Grande Florianópolis",
+    "lat": -27.6447,
+    "lng": -48.6699,
+    "waterStatus": "bad",
+    "beachStatus": "improper",
+    "description": "Área costeira no município de Palhoça, na Grande Florianópolis. A deficiência de saneamento básico no município é histórica, resultando em lançamento de esgoto bruto em córregos que deságuam no mar.",
+    "ngo": {
+      "name": "Palhoça Saneada",
+      "description": "Movimento social que pressiona pela universalização do saneamento em Palhoça, acompanhando contratos públicos e realizando relatórios participativos sobre qualidade da água.",
+      "contact": "palhocasaneada@aguasc.org.br | (48) 99456-8901",
+      "donationUrl": "https://doe.aguasc.org.br/palhocasaneada"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Rio Araranguá",
+    "city": "Araranguá",
+    "region": "Sul Catarinense",
+    "lat": -28.9342,
+    "lng": -49.4801,
+    "waterStatus": "warning",
+    "beachStatus": "not_applicable",
+    "description": "Rio que banha o extremo sul de SC. A bacia carbonífera do sul catarinense historicamente contaminava seus afluentes com drenagem ácida de minas. O rio está em processo de recuperação, mas ainda exige monitoramento.",
+    "ngo": {
+      "name": "Rio Araranguá Vivo",
+      "description": "ONG que acompanha a recuperação ambiental do Rio Araranguá, monitorando pH e metais pesados, e publicando laudos acessíveis à população.",
+      "contact": "araranguavivo@aguasc.org.br | (48) 99567-9012",
+      "donationUrl": "https://doe.aguasc.org.br/araranguavivo"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Praia de Içara",
+    "city": "Içara",
+    "region": "Sul Catarinense",
+    "lat": -28.7154,
+    "lng": -49.3063,
+    "waterStatus": "warning",
+    "beachStatus": "proper",
+    "description": "Praia do sul catarinense próxima à área da antiga mineração de carvão. As condições de balneabilidade são aceitáveis na maior parte do tempo, mas podem ser afetadas após chuvas intensas que carreiam sedimentos minerados.",
+    "ngo": null
+  },
+  {
+    "id": 29,
+    "name": "Praia de Criciúma — Morro dos Conventos",
+    "city": "Araranguá",
+    "region": "Sul Catarinense",
+    "lat": -29.0029,
+    "lng": -49.5019,
+    "waterStatus": "good",
+    "beachStatus": "proper",
+    "description": "Formação rochosa única no extremo sul de SC, com praia de areia escura e águas que surpreendem pela qualidade. O isolamento geográfico ajuda na preservação natural do local.",
+    "ngo": null
+  },
+  {
+    "id": 30,
+    "name": "Rio Itajaí-Açu — Blumenau",
+    "city": "Blumenau",
+    "region": "Vale do Itajaí",
+    "lat": -26.9194,
+    "lng": -49.0661,
+    "waterStatus": "warning",
+    "beachStatus": "not_applicable",
+    "description": "O principal rio do Vale do Itajaí atravessa Blumenau, cidade de forte herança germânica. As enchentes cíclicas e o lançamento de efluentes domésticos e industriais ao longo de toda a bacia tornam o monitoramento permanente indispensável.",
+    "ngo": {
+      "name": "Vale Hídrico",
+      "description": "Rede de monitoramento participativo do Rio Itajaí-Açu em Blumenau. Reúne universidades, moradores e setor produtivo para medir a qualidade da água e antecipar alertas de contaminação.",
+      "contact": "valehidrico@aguasc.org.br | (47) 99678-0123",
+      "donationUrl": "https://doe.aguasc.org.br/valehidrico"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Praia de Pinheira",
+    "city": "Palhoça",
+    "region": "Grande Florianópolis",
+    "lat": -27.8625,
+    "lng": -48.6080,
+    "waterStatus": "good",
+    "beachStatus": "proper",
+    "description": "Praia no sul da Grande Florianópolis, com ambiente mais tranquilo e preservado. O menor adensamento populacional comparado à capital contribui para a manutenção da qualidade das águas.",
+    "ngo": null
+  },
+  {
+    "id": 32,
+    "name": "Praia de Governador Celso Ramos",
+    "city": "Governador Celso Ramos",
+    "region": "Grande Florianópolis",
+    "lat": -27.3164,
+    "lng": -48.5590,
+    "waterStatus": "good",
+    "beachStatus": "proper",
+    "description": "Pequeno município com várias praias tranquilas e preservadas, como Ganchos do Meio e Armação de Garopaba. A baixa densidade urbana e a forte cultura de maricultura estimulam o cuidado com a qualidade da água.",
+    "ngo": null
+  },
+  {
+    "id": 33,
+    "name": "Lagoa de Ibiraquera",
+    "city": "Imbituba",
+    "region": "Sul Catarinense",
+    "lat": -28.1668,
+    "lng": -48.6384,
+    "waterStatus": "good",
+    "beachStatus": "not_applicable",
+    "description": "Lagoa costeira com saída intermitente para o mar, muito apreciada por praticantes de kitesurf e windsurf. Localizada em área de proteção ambiental, mantém boa qualidade de água e rica biodiversidade aquática.",
+    "ngo": {
+      "name": "Lagoa Sustentável",
+      "description": "Coletivo de praticantes de esportes náuticos e ambientalistas que monitora a qualidade da água da Lagoa de Ibiraquera e promove o turismo responsável no entorno.",
+      "contact": "lagoasust@aguasc.org.br | (48) 99789-1234",
+      "donationUrl": "https://doe.aguasc.org.br/lagoasust"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Praia de Jurerê Internacional",
+    "city": "Florianópolis",
+    "region": "Grande Florianópolis",
+    "lat": -27.4310,
+    "lng": -48.4987,
+    "waterStatus": "good",
+    "beachStatus": "proper",
+    "description": "Uma das praias mais famosas e valorizadas de Florianópolis. Infraestrutura completa e monitoramento constante garantem a qualidade da água durante a temporada. Referência em gestão de balneabilidade no litoral catarinense.",
+    "ngo": null
+  },
+  {
+    "id": 35,
+    "name": "Praia do Santinho",
+    "city": "Florianópolis",
+    "region": "Grande Florianópolis",
+    "lat": -27.4547,
+    "lng": -48.3939,
+    "waterStatus": "good",
+    "beachStatus": "proper",
+    "description": "Praia preservada no nordeste da ilha, cercada por restinga e dunas. Protegida por restrições urbanísticas, mantém qualidade de água excepcional. Ponto arqueológico com pinturas rupestres em rocha na extremidade norte.",
+    "ngo": null
+  }
+]
