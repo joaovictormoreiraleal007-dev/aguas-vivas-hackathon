@@ -48,10 +48,10 @@ export function SearchBar({ value, onChange }: SearchBarProps) {
 // ─── FilterBar ───────────────────────────────────────────────────────────────
 
 const FILTERS: { value: FilterOption; label: string; activeClass: string }[] = [
-  { value: "all",     label: "Todos",     activeClass: "bg-gray-800 text-white" },
-  { value: "good",    label: "🟢 Própria",  activeClass: "bg-green-600 text-white" },
-  { value: "warning", label: "🟡 Atenção",  activeClass: "bg-amber-500 text-white" },
-  { value: "bad",     label: "🔴 Imprópria",activeClass: "bg-red-600 text-white" },
+  { value: "all",     label: "Todos",     activeClass: "bg-gray-300" },
+  { value: "good",    label: "🟢 Própria",  activeClass: "bg-green-200 text-green-900" },
+  { value: "warning", label: "🟡 Atenção",  activeClass: "bg-amber-200 text-amber-900" },
+  { value: "bad",     label: "🔴 Imprópria",activeClass: "bg-red-200 text-red-900" },
 ];
 
 interface FilterBarProps {
